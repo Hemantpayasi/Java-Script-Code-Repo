@@ -10,7 +10,6 @@ accountEmail = "payasi@google.com"
 accountPassword = "11111"
 accountCity = "Bhopal"
 
-
 /*
 Prefer not to use var 
 because of issue in block scope and functional scope
